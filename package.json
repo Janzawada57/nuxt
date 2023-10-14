@@ -36,7 +36,7 @@
   "devDependencies": {
     "@babel/core": "7.23.2",
     "@babel/preset-env": "7.23.2",
-    "@ls-lint/ls-lint": "2.1.0",
+    "@ls-lint/ls-lint": "2.2.0",
     "@nuxtjs/eslint-config": "12.0.0",
     "@nuxtjs/eslint-config-typescript": "12.1.0",
     "@rollup/plugin-alias": "5.0.1",

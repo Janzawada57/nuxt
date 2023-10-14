@@ -1896,10 +1896,10 @@
     yargs "16.2.0"
     yargs-parser "20.2.4"
 
-"@ls-lint/ls-lint@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/@ls-lint/ls-lint/-/ls-lint-2.1.0.tgz#8e9393112680d55afde80acbbe0c5c85e063aa33"
-  integrity sha512-WvyZf2TKUstZYVetDFbQF1kp5Wd2AJX50nqsmewwrHpEcLVCU8RDoqfBBnYHoaBxTRZcWjfNnnuLCBofkH5nEA==
+"@ls-lint/ls-lint@2.2.0":
+  version "2.2.0"
+  resolved "https://registry.npmjs.org/@ls-lint/ls-lint/-/ls-lint-2.2.0.tgz#7e0ad97ce3cbe9f32ca114abd777f939e1af5e04"
+  integrity sha512-CojXyhZtGBfxwncgi2P5qw+k+hqYq3xW2Ucg4QWiZBWCpRAfDAt6EPjMZ6SDg+hrnI/RbCy/LQoWxNdueAMvPA==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -4486,10 +4486,15 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001538, caniuse-lite@^1.0.30001541, caniuse-lite@^1.0.30001547:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001538, caniuse-lite@^1.0.30001541:
   version "1.0.30001547"
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001547.tgz#d4f92efc488aab3c7f92c738d3977c2a3180472b"
   integrity sha512-W7CrtIModMAxobGhz8iXmDfuJiiKg1WADMO/9x7/CLNin5cpSbuBjooyoIUVB5eyCc36QuTVlkVa1iB2S5+/eA==
+
+caniuse-lite@^1.0.30001549:
+  version "1.0.30001549"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001549.tgz#7d1a3dce7ea78c06ed72c32c2743ea364b3615aa"
+  integrity sha512-qRp48dPYSCYaP+KurZLhDYdVE+yEyht/3NlmcJgVQ2VMGt6JL36ndQ/7rgspdZsJuxDPFIo/OzBT2+GmIJ53BA==
 
 caseless@~0.12.0:
   version "0.12.0"
